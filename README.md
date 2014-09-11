@@ -11,7 +11,7 @@ It works both on Windows and MacOS. It requires Unity3D and Csound 5.19 to be in
 on your computer (note that it hasn’t been tested with Csound 6). 
 
 This readme file includes a basic explanation on how to use it, for further information 
-please send an email to marteroel@gmail.com. Using it requires none, 
+please contact Marte Roel. Using it requires none, 
 or little programming experience.
 
 a) Setup
